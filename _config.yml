@@ -1,11 +1,9 @@
 # Site settings
 title: Pandas y HDFS con DataFrame Dask
 description: "Pandas y HDFS con DataFrame Dask"
-url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Enrique Peinado"
+  name: "Enrique Peinado-Renzo Cerrón-Edgar Huaranga"
   email: "epeinador@gmail.com"
-  url: "http://www.jacoporabolini.com"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
